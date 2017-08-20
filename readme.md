@@ -27,5 +27,3 @@ Here is how you make [a link](https://www.wikipedia.org/).
 
 ![This is an image.](https://cdn.pixabay.com/photo/2016/09/05/21/37/cat-1647775_960_720.jpg)
 
-nano README.md
-
